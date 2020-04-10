@@ -1,13 +1,13 @@
 {
-  "name": "shark",
+  "name": "sharks",
   "version": "1.0.0",
   "description": "Outputs Sharks 0, 1, or 2. Useful in a CI/CD pipeline to highlight bad exit codes.",
-  "main": "shark.js",
+  "main": "sharks.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "shark": "./shark.js"
+    "shark": "./sharks.js"
   },
   "keywords": [
     "sharks"
